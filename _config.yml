@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Dalila Sabit"
-  avatar : "/assets/images/rlcpic.jpg"
+  avatar : "/assets/images/rlacpic.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
