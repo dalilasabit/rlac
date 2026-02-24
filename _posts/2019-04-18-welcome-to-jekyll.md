@@ -1,29 +1,17 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2019-04-18T15:34:30-04:00
+title: "Assignment 1"
+date: 2026-02-24T15:34:30-04:00
 categories:
-  - blog
+  - assignments
 tags:
-  - Jekyll
-  - update
+  - assignment
 ---
+Introduction
+Literature does more than tell stories, they shape emotional experiences. What makes a story emotionally satisfying and does that certain  pattern shape how much the readers like it? With the help of digital humanities tools it is now possible to analyze literary works by examining frequency of certain words.
+For this assignment we decided to choose 4 positive and 4 negative words to find the frequencies of their appearance in texts and compare them with the general popularity/likability of the texts.
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+As a Corpus of our study we chose to work with the Harry Potter series by J. K. Rowling and the fan fiction about the series from Archive of Our Own (AO3) website which is very popular among fan fiction lovers. To be precise, we chose 2 books by J. K. Rowling: Harry Potter and the Goblet of Fire and Harry Potter and the Deathly Hallows, and 3 fan fiction texts: Harry Potter: Adoptive Kaiju by Gojirahkiin, Harry Potter: Djinn Awakened
+by Wishmaster1983, and Resurrection by
+Sugahhuney.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
-
-```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
