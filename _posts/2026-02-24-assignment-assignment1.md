@@ -1,5 +1,6 @@
 ---
 title: "Assignment 1"
+layout: single
 date: 2026-02-24T15:34:30-04:00
 categories:
   - assignments
