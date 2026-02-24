@@ -1,6 +1,8 @@
 ---
 title: "Assignments"
+layout: category
 permalink: /assignments/
-layout: assignments
+taxonomy: Assignments
+entries_layout: list
 author_profile: true
 ---

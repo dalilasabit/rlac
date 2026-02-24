@@ -1,6 +1,6 @@
 main:
   - title: "Assignments"
-    url: /categories/#assignments
+    url: /assignments/
   - title: "Responses"
     url: /responses/
   - title: "Tags"
