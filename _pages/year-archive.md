@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /posts/
-layout: posts
+title: "Assignments"
+permalink: /assignments/
+layout: assignments
 author_profile: true
 ---
