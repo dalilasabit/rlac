@@ -1,9 +1,9 @@
 main:
   - title: "Assignments"
-    url: /assignments/
-  - title: "Categories"
-    url: /categories/
+    url: /categories/#assignments
+  - title: "Responses"
+    url: /responses/
   - title: "Tags"
     url: /tags/
-  - title: "Home"
-    url: /home/
+  - title: "About"
+    url: /about/

@@ -3,9 +3,9 @@ title: "Assignment 1"
 layout: single
 date: 2026-02-24T15:34:30-04:00
 categories:
-  - assignments
+  - Assignments
 tags:
-  - assignment
+  - Assignment
 ---
 Introduction
 Literature does more than tell stories, they shape emotional experiences. What makes a story emotionally satisfying and does that certain  pattern shape how much the readers like it? With the help of digital humanities tools it is now possible to analyze literary works by examining frequency of certain words.
