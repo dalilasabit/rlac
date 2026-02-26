@@ -26,7 +26,7 @@ Our word list was small: four positive words (happy, love, win, brave) and four 
 Fear Dominates the Heatmap, But Not the Trend Graph 
 The R heatmap (Figure 2) and the Voyant trend graph (Figure 1) tell interestingly different stories about fear*. In the heatmap, fear registers a raw count of 54 in Harry Potter and the Deathly Hallows, the single highest cell value in the entire visualization. This is not surprising: the novel is set during a magical genocide, and its characters are perpetually in mortal danger. However, the Voyant trend graph does not confirm this dominance in relative frequency terms. Fear* sits relatively flat and low across all five texts in Voyant, while win* emerges as the most visually striking line, peaking sharply in *Harry Potter and the Goblet of Fire*. This discrepancy is itself a methodological finding: raw counts and relative frequencies can produce different interpretations of the same data, and neither tells the complete story alone.
 
-<iframe style='width: 800px; height: 600px;' src='https://voyant-tools.org/tool/Trends/?view=Trends&query=harry&query=said&query=hermione&query=ron&query=like&corpus=c62bec8dbc92fc5bc87937bc763022b6'></iframe>
+<iframe style='width: 800px; height: 600px;' src='https://voyant-tools.org/tool/Trends/?view=Trends&query=hate*&query=love*&query=sad*&query=happy*&query=los*&query=win*&query=brave*&query=fear*&corpus=c62bec8dbc92fc5bc87937bc763022b6'></iframe>
 Figure 1: Relative frequency of selected words across all five texts in Voyant Tools. 
 
 ### Win Belongs to *Goblet of Fire* 
