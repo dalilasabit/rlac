@@ -6,8 +6,8 @@ date: 2024-02-24
 categories:
   - assignments
 ---
-# Assignment 1
-## Feeling the Story: Emotional Word Frequency and Reader Enjoyment in Harry Potter Canon and Fanfiction
+# Feeling the Story: Emotional Word Frequency and Reader Enjoyment in Harry Potter Canon and Fanfiction
+*Computational Text Analysis by Jennet and Dalila*
 ## Introduction
 What makes the story more satisfying, and can that pattern be measured? Literature does more than tell stories; it shapes emotional experiences. With the help of digital tools, here we tried to analyze literary works by examining the frequency of certain words, and ask whether those frequencies tell us something meaningful about how readers respond to a text.
 This study applies exploratory data analysis (EDA) to five texts from the Harry Potter universe: J.K. Rowling's *Harry Potter and the Goblet of Fire* and *Harry Potter and the Deathly Hallows*, alongside three works of fan fiction, *Harry Potter: Adoptive Kaiju* by Gojirahkiin, *Harry Potter: Djinn Awakened* by Wishmaster1983, and *Resurrection* by Sugahhuney, to examine how positive words (happy, love, win, brave) and negative words (fear, hate, loss, sad) are distributed across canonical and fan-created texts, and what that distribution might tell us about reader engagement.
