@@ -1,6 +1,6 @@
 ---
 title: "Assignment 1"
-excerpt: "An analysis of Harry Potter and Fan Fiction."
+excerpt: "Feeling the Story: Harry Potter Canon and Fanfiction"
 layout: single
 date: 2024-02-24
 categories:
