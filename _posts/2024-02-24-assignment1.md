@@ -37,3 +37,40 @@ Love* tells a different story. While Rowling's two novels show moderate and decl
 
 ### The Heatmap as Comparative Snapshot 
 Looking across the heatmap, *Deathly Hallows* presents the most emotionally intense profile for negative words: the highest fear (54), and middling sad (4) and hate (6). *Goblet of Fire* shows a different negative signature: high hate (16) and high win (21), reflecting its antagonist-heavy tournament plot. Among the fanfics, Resurrection is distinguished by its love dominance, while *Djinn Awakened* shows more balanced emotional distribution, appropriate for a crossover action narrative rather than a purely emotional one.
+![heatmap](/assets/images/color.png)
+*Figure 2: Word frequency heatmap across all five texts. Color intensity reflects raw word count.*
+
+## Interpretations and Risk of Distant Reading
+These patterns are suggestive, but Ted Underwood's caution in *Distant Horizons* is directly applicable here. He warns that quantitative models are no more objective than any other historical interpretation, and that what looks like a meaningful pattern may be an artifact of genre, length, or the particular word list chosen. Our eight-word lexicon is precisely the kind of narrow instrument Underwood would flag. The presence of win* in *Goblet of Fire* is a frequency artifact of plot, not a signal of emotional positivity. Likewise, the absence of brave* in *Resurrection* (count: 0) does not mean the text is lacking in courage; it simply means the author used different vocabulary. 
+This is also a limit Voyant cannot resolve on its own. The concordance view, which we used to spot-check some results, reveals that fear* in *Deathly Hallows* appears in a wide range of contexts, fearful, fearsome, fear itself, some of which are descriptive rather than emotionally evocative. The wildcard matching that makes Voyant flexible also introduces noise. 
+Our engagement metrics carry their own limitations. Goodreads ratings reflect a broad, self-selecting readership of published book readers, while AO3 kudos reflect a specific online fan community. A text that scores highly on one scale might not even exist on the other. This means our research question, whether emotional word frequency predicts reader engagement, can only be answered partially and with caution. What we can say is that within the fanfiction texts, the pattern holds tentatively: Resurrection, the most love-saturated text in the corpus, also has the highest kudos. But whether that correlation is meaningful or coincidental cannot be determined from five texts and eight words alone. 
+What the R notebook added was precision and customizability. We could control exactly which words were counted, produce a clean comparative table, and generate a visualization that made cross-text differences immediately legible. Voyant, by contrast, offered interactivity and breadth; the trend lines allowed us to see the shape of each word's distribution across all five texts simultaneously, which the heatmap could not do. The two tools were genuinely complementary rather than redundant.
+
+## Conclusion
+This analysis offers a tentative answer to our opening question: emotional word density, particularly high love* frequency appears to correlate with stronger reader engagement in fan-created texts. *Resurrection*, which leads the fanfic corpus in both love* frequency and AO3 kudos (962), supports the hypothesis that emotional intensity leaves a detectable trace in how audiences receive a text. The Rowling texts, by contrast, show emotionally specific profiles driven by plot structure rather than sustained emotional saturation, and yet, both hold exceptionally high Goodreads ratings, *Deathly Hallows* at 4.62 and *Goblet of Fire* at 4.57 across millions of readers. This suggests that emotional word frequencies may be a more useful predictor of engagement within fanfiction communities than across reading contexts more broadly.
+What surprised us most was how genre-specific the word distributions were. Win* belongs almost entirely to *Goblet of Fire*; fear* defines *Deathly Hallows*; love* characterizes *Resurrection*. This suggests that distant reading at word-frequency level may be useful for measuring something as holistic as emotional tone, and more useful as a genre signature detector. With broader lexicon and more texts, this could be a productive research director.
+As Underwood reminds us, however, we should be cautious about what we claim. The patterns here are real, but they are also partial. A linear read of these texts would reveal emotional textures, irony, understatement, and narrative context that no frequency count can capture. The limitation of our dual engagement metric further reminds us that reader communities are not interchangeable; what resonates on AO3 and what resonates on Goodreads may reflect fundamentally different reading cultures. Distant reading and close reading remain partners, not rivals, and any meaningful claim about what makes a story satisfying will require both.
+
+## Works Cited 
+### Primary Texts 
+Rowling, J.K. *Harry Potter and the Goblet of Fire*. Bloomsbury, 2000. 
+Rowling, J.K. *Harry Potter and the Deathly Hallows*. Bloomsbury, 2007. 
+Gojirahkiin. *Harry Potter: Adoptive Kaiju*. Archive of Our Own, 5 Feb. 2017, archiveofourown.org/works/9589772.
+Wishmaster1983. *Harry Potter: Djinn Awakened*. Archive of Our Own, 22 Jan. 2021, archiveofourown.org/works/28911525 
+Sugahhuney. Resurrection. Archive of Our Own, archiveofourown.org/works/11094153  
+
+### Secondary Sources 
+Underwood, Ted. *Distant Horizons: Digital Evidence and Literary Change*. University of Chicago Press, 2019. 
+Rockwell, Geoffrey, and Stéfan Sinclair. *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. MIT Press, 2016. 
+Moravec, Kimberly. "My Secret Editing Weapon: The Google Ngram Viewer". Medium, 26 Jan. 2021, medium.com/the-greengrocers-style-guide/my-secret-editing-weapon-the-google-ngram-viewer-2006d20411c6 . 
+
+### Data Sources 
+"Harry Potter and the Goblet of Fire." Goodreads, www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire. Accessed Feb. 2026. 
+"Harry Potter and the Deathly Hallows." Goodreads, www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows.  Accessed Feb. 2026. 
+
+## Acknowledgements
+
+It was really nice working with Dalila in this project. The project was developed jointly from the start: we brainstormed our research question and corpus selection together, produced the Voyant and R visualizations collaboratively, and co-edited the final essay. It was a genuinely enjoyable collaboration and I appreciate her creativity and analytical thinking throughout the process.
+*Jennet*
+It was a pleasure working with Jennet on this assignment. From the very beginning of the project we collaborated on brainstorming ideas and shaping our research question. Jennet did an excellent job in analyzing our findings, approaching the data with great attention to detail and critical thinking. Her ability to interpret the results and connect them to our argument strengthened the project significantly. I genuinely appreciate her dedication and collaborative spirit during the entire process.
+*Dalila*
