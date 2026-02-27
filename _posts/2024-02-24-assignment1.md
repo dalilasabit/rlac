@@ -39,9 +39,9 @@ Love* tells a different story. While Rowling's two novels show moderate and decl
 ### The Heatmap as Comparative Snapshot 
 Looking across the heatmap, *Deathly Hallows* presents the most emotionally intense profile for negative words: the highest fear (54), and middling sad (4) and hate (6). *Goblet of Fire* shows a different negative signature: high hate (16) and high win (21), reflecting its antagonist-heavy tournament plot. Among the fanfics, Resurrection is distinguished by its love dominance, while *Djinn Awakened* shows more balanced emotional distribution, appropriate for a crossover action narrative rather than a purely emotional one.
 <div style="text-align: center;">
-  <img src="/assets/images/color.png" alt="Voyant Graph" style="width: 80%;">
+  <img src="/assets/images/color.png" style="width: 80%;">
 </div>
-<img src="{{ site.baseurl }}/assets/images/color.jpg" alt="Voyant Graph">
+<img src="{{ site.baseurl }}/assets/images/color.jpg">
 *Figure 2: Word frequency heatmap across all five texts. Color intensity reflects raw word count.*
 
 ## Interpretations and Risk of Distant Reading
