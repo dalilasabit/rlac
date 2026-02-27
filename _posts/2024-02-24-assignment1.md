@@ -77,14 +77,12 @@ Rockwell, Geoffrey, and Stéfan Sinclair. *Hermeneutica: Computer-Assisted Inter
 
 ## Acknowledgements
 
-It was really nice working with Dalila in this project. The project was developed jointly from the start: we brainstormed our research question and corpus selection together, produced the Voyant and R visualizations collaboratively, and co-edited the final essay. It was a genuinely enjoyable collaboration and I appreciate her creativity and analytical thinking throughout the process.
+It was really nice working with Dalila in this project. The project was developed jointly from the start: we brainstormed our research question and corpus selection together, produced the Voyant and R visualizations collaboratively, and co-edited the final essay. It was a genuinely enjoyable collaboration and I appreciate her creativity and analytical thinking throughout the process.  
+<div style="text-align: right; font-style: italic;">
+  Jennet
+</div>
 
-<p align="right">Jennet</p>
-
-
-It was a pleasure working with Jennet on this assignment. From the very beginning of the project we collaborated on brainstorming ideas and shaping our research question. Jennet did an excellent job in analyzing our findings, approaching the data with great attention to detail and critical thinking. Her ability to interpret the results and connect them to our argument strengthened the project significantly. I genuinely appreciate her dedication and collaborative spirit during the entire process.
-
-<p align="right">Dalila</p>
+It was a pleasure working with Jennet on this assignment. From the very beginning of the project we collaborated on brainstorming ideas and shaping our research question. Jennet did an excellent job in analyzing our findings, approaching the data with great attention to detail and critical thinking. Her ability to interpret the results and connect them to our argument strengthened the project significantly. I genuinely appreciate her dedication and collaborative spirit during the entire process.  
 <div style="text-align: right; font-style: italic;">
   Dalila
 </div>
