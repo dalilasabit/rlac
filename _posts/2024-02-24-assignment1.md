@@ -27,7 +27,7 @@ Fear Dominates the Heatmap, But Not the Trend Graph
 The R heatmap (Figure 2) and the Voyant trend graph (Figure 1) tell interestingly different stories about fear*. In the heatmap, fear registers a raw count of 54 in Harry Potter and the Deathly Hallows, the single highest cell value in the entire visualization. This is not surprising: the novel is set during a magical genocide, and its characters are perpetually in mortal danger. However, the Voyant trend graph does not confirm this dominance in relative frequency terms. Fear* sits relatively flat and low across all five texts in Voyant, while win* emerges as the most visually striking line, peaking sharply in *Harry Potter and the Goblet of Fire*. This discrepancy is itself a methodological finding: raw counts and relative frequencies can produce different interpretations of the same data, and neither tells the complete story alone.
 
 <iframe style='width: 800px; height: 600px;' src='https://voyant-tools.org/tool/Trends/?view=Trends&query=hate*&query=love*&query=sad*&query=happy*&query=los*&query=win*&query=brave*&query=fear*&corpus=c62bec8dbc92fc5bc87937bc763022b6'></iframe>
-Figure 1: Relative frequency of selected words across all five texts in Voyant Tools. 
+*Figure 1: Relative frequency of selected words across all five texts in Voyant Tools*. 
 
 ### Win Belongs to *Goblet of Fire* 
 Win* shows a sharp, localized spike in *Goblet of Fire* in the Voyant trend graph, reaching nearly 0.0019 relative frequency, the highest single-word peak across all eight terms and all five texts. This makes immediate contextual sense: *Goblet of Fire* is structured around a competition, and language of winning, losing, and triumph saturates the tournament sequences. In the heatmap, win scores 21 in *Goblet of Fire* but 0 in both Gojirahkiin and Sugahhuney, confirming that this word is essentially plot-specific. The insight here is methodological: word frequency without context can mislead. A reader encountering only the frequency data might conclude that *Goblet of Fire* is an unusually triumphalist text, when in fact the word reflects genre convention rather than emotional tone.
@@ -55,14 +55,14 @@ As Underwood reminds us, however, we should be cautious about what we claim. The
 ### Primary Texts 
 Rowling, J.K. *Harry Potter and the Goblet of Fire*. Bloomsbury, 2000. 
 Rowling, J.K. *Harry Potter and the Deathly Hallows*. Bloomsbury, 2007. 
-Gojirahkiin. *Harry Potter: Adoptive Kaiju*. Archive of Our Own, 5 Feb. 2017, archiveofourown.org/works/9589772.
-Wishmaster1983. *Harry Potter: Djinn Awakened*. Archive of Our Own, 22 Jan. 2021, archiveofourown.org/works/28911525 
-Sugahhuney. Resurrection. Archive of Our Own, archiveofourown.org/works/11094153  
+[Gojirahkiin. *Harry Potter: Adoptive Kaiju*. Archive of Our Own, 5 Feb. 2017.](archiveofourown.org/works/9589772)
+[Wishmaster1983. *Harry Potter: Djinn Awakened*. Archive of Our Own, 22 Jan. 2021](archiveofourown.org/works/28911525)
+[Sugahhuney. Resurrection. Archive of Our Own](archiveofourown.org/works/11094153)
 
 ### Secondary Sources 
-Underwood, Ted. *Distant Horizons: Digital Evidence and Literary Change*. University of Chicago Press, 2019. 
-Rockwell, Geoffrey, and Stéfan Sinclair. *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. MIT Press, 2016. 
-Moravec, Kimberly. "My Secret Editing Weapon: The Google Ngram Viewer". Medium, 26 Jan. 2021, medium.com/the-greengrocers-style-guide/my-secret-editing-weapon-the-google-ngram-viewer-2006d20411c6 . 
+Underwood, Ted. *Distant Horizons: Digital Evidence and Literary Change*. University of Chicago Press, 2019.
+Rockwell, Geoffrey, and Stéfan Sinclair. *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. MIT Press, 2016.
+[Moravec, Kimberly. "My Secret Editing Weapon: The Google Ngram Viewer". Medium, 26 Jan. 2021.](medium.com/the-greengrocers-style-guide/my-secret-editing-weapon-the-google-ngram-viewer-2006d20411c6)
 
 ### Data Sources 
 "Harry Potter and the Goblet of Fire." Goodreads, www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire. Accessed Feb. 2026. 
