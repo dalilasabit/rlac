@@ -53,24 +53,35 @@ As Underwood reminds us, however, we should be cautious about what we claim. The
 
 ## Works Cited 
 ### Primary Texts 
-Rowling, J.K. *Harry Potter and the Goblet of Fire*. Bloomsbury, 2000. 
-Rowling, J.K. *Harry Potter and the Deathly Hallows*. Bloomsbury, 2007. 
+Rowling, J.K. *Harry Potter and the Goblet of Fire*. Bloomsbury, 2000.
+
+Rowling, J.K. *Harry Potter and the Deathly Hallows*. Bloomsbury, 2007.
+
 [Gojirahkiin. *Harry Potter: Adoptive Kaiju*. Archive of Our Own, 5 Feb. 2017.](archiveofourown.org/works/9589772)
+
 [Wishmaster1983. *Harry Potter: Djinn Awakened*. Archive of Our Own, 22 Jan. 2021](archiveofourown.org/works/28911525)
+
 [Sugahhuney. Resurrection. Archive of Our Own](archiveofourown.org/works/11094153)
 
 ### Secondary Sources 
 Underwood, Ted. *Distant Horizons: Digital Evidence and Literary Change*. University of Chicago Press, 2019.
+
 Rockwell, Geoffrey, and Stéfan Sinclair. *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. MIT Press, 2016.
+
 [Moravec, Kimberly. "My Secret Editing Weapon: The Google Ngram Viewer". Medium, 26 Jan. 2021.](medium.com/the-greengrocers-style-guide/my-secret-editing-weapon-the-google-ngram-viewer-2006d20411c6)
 
 ### Data Sources 
 ["Harry Potter and the Goblet of Fire." Goodreads](www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire)
+
 ["Harry Potter and the Deathly Hallows." Goodreads](www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)
 
 ## Acknowledgements
 
 It was really nice working with Dalila in this project. The project was developed jointly from the start: we brainstormed our research question and corpus selection together, produced the Voyant and R visualizations collaboratively, and co-edited the final essay. It was a genuinely enjoyable collaboration and I appreciate her creativity and analytical thinking throughout the process.
+
 *Jennet*
+
+
 It was a pleasure working with Jennet on this assignment. From the very beginning of the project we collaborated on brainstorming ideas and shaping our research question. Jennet did an excellent job in analyzing our findings, approaching the data with great attention to detail and critical thinking. Her ability to interpret the results and connect them to our argument strengthened the project significantly. I genuinely appreciate her dedication and collaborative spirit during the entire process.
+
 *Dalila*
