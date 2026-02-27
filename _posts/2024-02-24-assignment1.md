@@ -60,23 +60,23 @@ Rowling, J.K. *Harry Potter and the Goblet of Fire*. Bloomsbury, 2000.
 
 Rowling, J.K. *Harry Potter and the Deathly Hallows*. Bloomsbury, 2007.
 
-[Gojirahkiin. *Harry Potter: Adoptive Kaiju*. Archive of Our Own, 5 Feb. 2017.](archiveofourown.org/works/9589772)
+[Gojirahkiin. *Harry Potter: Adoptive Kaiju*. Archive of Our Own, 5 Feb. 2017.](https://archiveofourown.org/works/9589772)
 
-[Wishmaster1983. *Harry Potter: Djinn Awakened*. Archive of Our Own, 22 Jan. 2021](archiveofourown.org/works/28911525)
+[Wishmaster1983. *Harry Potter: Djinn Awakened*. Archive of Our Own, 22 Jan. 2021](https://archiveofourown.org/works/28911525)
 
-[Sugahhuney. Resurrection. Archive of Our Own](archiveofourown.org/works/11094153)
+[Sugahhuney. Resurrection. Archive of Our Own](https://archiveofourown.org/works/11094153)
 
 ### Secondary Sources 
 Underwood, Ted. *Distant Horizons: Digital Evidence and Literary Change*. University of Chicago Press, 2019.
 
 Rockwell, Geoffrey, and Stéfan Sinclair. *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. MIT Press, 2016.
 
-[Moravec, Kimberly. "My Secret Editing Weapon: The Google Ngram Viewer". Medium, 26 Jan. 2021.](medium.com/the-greengrocers-style-guide/my-secret-editing-weapon-the-google-ngram-viewer-2006d20411c6)
+[Moravec, Kimberly. "My Secret Editing Weapon: The Google Ngram Viewer". Medium, 26 Jan. 2021.](https://medium.com/the-greengrocers-style-guide/my-secret-editing-weapon-the-google-ngram-viewer-2006d20411c6)
 
 ### Data Sources 
-["Harry Potter and the Goblet of Fire." Goodreads](www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire)
+["Harry Potter and the Goblet of Fire." Goodreads](https://www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire)
 
-["Harry Potter and the Deathly Hallows." Goodreads](www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)
+["Harry Potter and the Deathly Hallows." Goodreads](https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)
 
 ## Acknowledgements
 
