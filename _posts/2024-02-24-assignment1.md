@@ -2,7 +2,7 @@
 title: "Assignment 1"
 excerpt: "Feeling the Story: Harry Potter Canon and Fanfiction"
 layout: single
-date: 2024-02-24
+date: 2026-02-27
 categories:
   - assignments
 ---
