@@ -65,8 +65,8 @@ Rockwell, Geoffrey, and Stéfan Sinclair. *Hermeneutica: Computer-Assisted Inter
 [Moravec, Kimberly. "My Secret Editing Weapon: The Google Ngram Viewer". Medium, 26 Jan. 2021.](medium.com/the-greengrocers-style-guide/my-secret-editing-weapon-the-google-ngram-viewer-2006d20411c6)
 
 ### Data Sources 
-"Harry Potter and the Goblet of Fire." Goodreads, www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire. Accessed Feb. 2026. 
-"Harry Potter and the Deathly Hallows." Goodreads, www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows.  Accessed Feb. 2026. 
+["Harry Potter and the Goblet of Fire." Goodreads](www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire)
+["Harry Potter and the Deathly Hallows." Goodreads](www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows)
 
 ## Acknowledgements
 
