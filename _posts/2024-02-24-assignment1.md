@@ -27,7 +27,8 @@ Our word list was small: four positive words (happy, love, win, brave) and four 
 The R heatmap (Figure 2) and the Voyant trend graph (Figure 1) tell interestingly different stories about fear*. In the heatmap, fear registers a raw count of 54 in Harry Potter and the Deathly Hallows, the single highest cell value in the entire visualization. This is not surprising: the novel is set during a magical genocide, and its characters are perpetually in mortal danger. However, the Voyant trend graph does not confirm this dominance in relative frequency terms. Fear* sits relatively flat and low across all five texts in Voyant, while win* emerges as the most visually striking line, peaking sharply in *Harry Potter and the Goblet of Fire*. This discrepancy is itself a methodological finding: raw counts and relative frequencies can produce different interpretations of the same data, and neither tells the complete story alone.
 
 <iframe style='width: 800px; height: 600px;' src='https://voyant-tools.org/tool/Trends/?view=Trends&query=hate*&query=love*&query=sad*&query=happy*&query=los*&query=win*&query=brave*&query=fear*&corpus=c62bec8dbc92fc5bc87937bc763022b6'></iframe>
-*Figure 1: Relative frequency of selected words across all five texts in Voyant Tools*. 
+
+*Figure 1: Relative frequency of selected words across all five texts in Voyant Tools.*
 
 ### Win Belongs to *Goblet of Fire* 
 Win* shows a sharp, localized spike in *Goblet of Fire* in the Voyant trend graph, reaching nearly 0.0019 relative frequency, the highest single-word peak across all eight terms and all five texts. This makes immediate contextual sense: *Goblet of Fire* is structured around a competition, and language of winning, losing, and triumph saturates the tournament sequences. In the heatmap, win scores 21 in *Goblet of Fire* but 0 in both Gojirahkiin and Sugahhuney, confirming that this word is essentially plot-specific. The insight here is methodological: word frequency without context can mislead. A reader encountering only the frequency data might conclude that *Goblet of Fire* is an unusually triumphalist text, when in fact the word reflects genre convention rather than emotional tone.
@@ -51,7 +52,7 @@ This analysis offers a tentative answer to our opening question: emotional word 
 What surprised us most was how genre-specific the word distributions were. Win* belongs almost entirely to *Goblet of Fire*; fear* defines *Deathly Hallows*; love* characterizes *Resurrection*. This suggests that distant reading at word-frequency level may be useful for measuring something as holistic as emotional tone, and more useful as a genre signature detector. With broader lexicon and more texts, this could be a productive research director.
 As Underwood reminds us, however, we should be cautious about what we claim. The patterns here are real, but they are also partial. A linear read of these texts would reveal emotional textures, irony, understatement, and narrative context that no frequency count can capture. The limitation of our dual engagement metric further reminds us that reader communities are not interchangeable; what resonates on AO3 and what resonates on Goodreads may reflect fundamentally different reading cultures. Distant reading and close reading remain partners, not rivals, and any meaningful claim about what makes a story satisfying will require both.
 
-## Works Cited 
+## Works Cited
 ### Primary Texts 
 Rowling, J.K. *Harry Potter and the Goblet of Fire*. Bloomsbury, 2000.
 
@@ -80,7 +81,7 @@ Rockwell, Geoffrey, and Stéfan Sinclair. *Hermeneutica: Computer-Assisted Inter
 It was really nice working with Dalila in this project. The project was developed jointly from the start: we brainstormed our research question and corpus selection together, produced the Voyant and R visualizations collaboratively, and co-edited the final essay. It was a genuinely enjoyable collaboration and I appreciate her creativity and analytical thinking throughout the process.  
 <div style="text-align: right; font-style: italic;">
   Jennet
-</div>
+</div>  
 
 It was a pleasure working with Jennet on this assignment. From the very beginning of the project we collaborated on brainstorming ideas and shaping our research question. Jennet did an excellent job in analyzing our findings, approaching the data with great attention to detail and critical thinking. Her ability to interpret the results and connect them to our argument strengthened the project significantly. I genuinely appreciate her dedication and collaborative spirit during the entire process.  
 <div style="text-align: right; font-style: italic;">
