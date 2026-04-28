@@ -82,11 +82,17 @@ Ultimately, we come back to the question we started with: can a computer separat
 
 ## References
 Underwood, Ted. Distant Horizons: Digital Evidence and Literary Change. University of Chicago Press, 2019.
+
 Brackett, Leigh. *The Blue Behemoth* (1943); *Enchantress of Venus* (1949); *Black Amazon of Mars* (1951). Project Gutenberg.
+
 Dick, Philip K. *Second Variety* (1953); *The Defenders* (1953); *The Variable Man* (1953). Project Gutenberg.
+
 Kuttner, Henry (& Robert Bloch). *The Black Kiss* (1937); *The Ego Machine* (1952); *Thunder in the Void* (1942). Project Gutenberg.
+
 Norton, Andre. *Plague Ship* (1956); *Star Hunter* (1961); *Voodoo Planet* (1959). Project Gutenberg.
+
 Wells, H.G. *The Island of Doctor Moreau* (1896); *The Salvaging of Civilization* (1921); *The War of the Worlds* (1898). Project Gutenberg.
+
 Bradley, Marion Zimmer. *Falcons of Narabedla* (1957); *Jackie Sees a Star* (1954); *The Door Through Space* (1961). Project Gutenberg
 
 ## Acknowledgements
