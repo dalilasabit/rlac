@@ -43,6 +43,7 @@ Wells produces the clearest result of all. *The Salvaging of Civilization* is al
 
 ## The PCA Loadings: Reading the Axes
 *Figure 2: Principal Component Analysis at 100 MFW*
+
 At 100 MFW, the first principal component, accounting for 21.3% of variance, separates action-driven narrative prose from argumentative, essayistic writing. Words like eyes, away, back, came, her, him, was, and had pulled in one direction. Words like world, are, most, much, this, has, more, and then pull in the other. This is not just a stylistic distinction. It is a distinction between two fundamentally different modes of writing: narrative versus argument, fiction versus non-fiction, showing versus telling. 
 
 As MFW increases from 100 to 1000, something important happens. The central cluster of 1950s pulp science fiction texts compresses together. The individual voices of Brackett, Kuttner, Norton, Dick, and Bradley begin to blur into a shared genre register. This is not a failure of the method. It is a finding. The pulp science fiction writers of the 1950s converged on a common stylistic baseline, shaped by the same editorial demands, the same readership, and the same cultural moment. Stylo makes that convergence visible.
