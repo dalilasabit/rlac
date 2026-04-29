@@ -56,7 +56,7 @@ As MFW increases from 100 to 1000, something important happens. The central clus
 ## The TF-IDF Visualizations
 If Stylo reveals the grammar style, TF-IDF reveals the vocabulary of content. Where Stylo asks “how does this author write?”, TF-IDF asks “what does this text talk about?”. Comparing the two PCA plots (at 100 and 3000 MFW) against what Stylo found makes the differences between these methods more visible.
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/images/MFW100.png" style="width: 80%;">
+  <img src="{{ site.baseurl }}/assets/images/MFW100.png" style="width: 100%;">
 </div>
 *Figure 3: TF-IDF at 100 MFW*
 
@@ -64,7 +64,7 @@ Looking at the two most contrasting parameter settings (100 and 3000 MFW) reveal
 
 There are two texts that remain at the extremes across both settings: *Jackie Sees a Star* which sits alone in the upper-left corner of the plot, and *The Salvaging of Civilization* which sits alone in upper-right. These two texts are maximally distant from each other and from everyone else. Wells’s nonfiction isolation mirrors the Stylo result; its vocabulary of civilization, education, and governance has no equivalent anywhere in the fiction corpus. But Bradley’s short story is a different kind of outlier. *Jackie Sees a Star* is the only text in the corpus narrated primarily from a child’s perspective, and its distinctive vocabulary is simpler, and closer to everyday speech, which pushes the text far from the pulp adventure baseline that most other texts share. This is something Stylo partially captured (it was the most distant of Bradley’s three texts in the cluster analysis) but TF-IDF makes it far more visible.
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/images/MFW3000.png" style="width: 80%;">
+  <img src="{{ site.baseurl }}/assets/images/MFW3000.png" style="width: 100%;">
 </div>
 *Figure 4: TF-IDF PCA at 3000 MFW*
 
