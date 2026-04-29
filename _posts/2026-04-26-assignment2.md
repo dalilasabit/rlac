@@ -29,6 +29,9 @@ But the wordlist does not stay at function words. By the 50th or 100th word, mor
 
 The Bootstrap Consensus Tree clustering across MFW settings from 100 to 500 and reports only what holds consistently. This makes it a more reliable Stylo result, not a snapshot of one parameter choice but a consensus across many. 
 
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/CT1.png" style="width: 80%;">
+</div>
 *Figure 1: Bootstrap Consensus Tree at 100-500 MFW*
 
 The BCT reveals two kinds of authors: those whose style is consistent enough for the algorithm to identify reliably, and those whose internal variety defeats it. 
@@ -42,6 +45,9 @@ Brackett is a partial case. Her two Eric John Stark stories, *Enchantress of Ven
 Wells produces the clearest result of all. *The Salvaging of Civilization* is always isolated, always far from his two fiction texts. Non-fiction prose has a fundamentally different function-word profile from narrative fiction, dominated by words like world, are, most, much, this, has, more, than rather than narrative action words. No amount of shared authorship bridges that gap. The method is measuring something real, but what it measures is genre as much as authorship.
 
 ## The PCA Loadings: Reading the Axes
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/CA1.png" style="width: 80%;">
+</div>
 *Figure 2: Principal Component Analysis at 100 MFW*
 
 At 100 MFW, the first principal component, accounting for 21.3% of variance, separates action-driven narrative prose from argumentative, essayistic writing. Words like eyes, away, back, came, her, him, was, and had pulled in one direction. Words like world, are, most, much, this, has, more, and then pull in the other. This is not just a stylistic distinction. It is a distinction between two fundamentally different modes of writing: narrative versus argument, fiction versus non-fiction, showing versus telling. 
