@@ -32,7 +32,7 @@ The Bootstrap Consensus Tree clustering across MFW settings from 100 to 500 and 
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/CT1.png" style="width: 80%;">
 </div>
-<center> _Figure 1: Bootstrap Consensus Tree at 100-500 MFW_ </center>
+<center><em>Figure 1: Bootstrap Consensus Tree at 100-500 MFW</em></center>
 
 The BCT reveals two kinds of authors: those whose style is consistent enough for the algorithm to identify reliably, and those whose internal variety defeats it. 
 
@@ -48,7 +48,7 @@ Wells produces the clearest result of all. *The Salvaging of Civilization* is al
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/CA1.png" style="width: 80%;">
 </div>
-<center> *Figure 2: Principal Component Analysis at 100 MFW* </center>
+<center><em>Figure 2: Principal Component Analysis at 100 MFW</em></center>
 
 At 100 MFW, the first principal component, accounting for 21.3% of variance, separates action-driven narrative prose from argumentative, essayistic writing. Words like eyes, away, back, came, her, him, was, and had pulled in one direction. Words like world, are, most, much, this, has, more, and then pull in the other. This is not just a stylistic distinction. It is a distinction between two fundamentally different modes of writing: narrative versus argument, fiction versus non-fiction, showing versus telling. 
 
@@ -58,7 +58,7 @@ If Stylo reveals the grammar style, TF-IDF reveals the vocabulary of content. Wh
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/MFW100.png" style="width: 100%;">
 </div>
-<center> *Figure 3: TF-IDF at 100 MFW* </center>
+<center><em>Figure 3: TF-IDF at 100 MFW</em></center>
 
 Looking at the two most contrasting parameter settings (100 and 3000 MFW) reveals what happens as more vocabulary is included in the analysis. At 100 MFW, texts are spread across a wider horizontal range, with several notable outliers pulling in different directions. By 3000 MFW, the entire plot has shifted to the right and the central cluster of fiction texts had compressed noticeably together. This mirrors what Stylo showed at higher MFW settings; as words are included, the shared genre baseline of 1950s science fiction begins to dominate, pulling texts toward each other and smoothing over individual differences.
 
@@ -66,7 +66,7 @@ There are two texts that remain at the extremes across both settings: *Jackie Se
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/MFW3000.png" style="width: 100%;">
 </div>
-<center> *Figure 4: TF-IDF PCA at 3000 MFW* </center>
+<center><em>Figure 4: TF-IDF PCA at 3000 MFW</em></center>
 
 *The Ego Machine* is another persistent outlier, sitting alone on the left side of the plot at both settings. Its Hollywood setting gives it a content profile that no other text in the corpus shares. This is actually a case where TF-IDF is less informative than Stylo. The stylometric analysis connected *The Ego Machine* to *The Blue Behemoth* through their shared comedic tone, which is a genuinely interesting observation. TF-IDF, by contrast, simply isolates it as topically unusual without revealing what it shares with anything else.
 
