@@ -28,7 +28,7 @@ The R heatmap (Figure 2) and the Voyant trend graph (Figure 1) tell interestingl
 
 <iframe style='width:700px; height: 500px;' src='https://voyant-tools.org/tool/Trends/?view=Trends&query=hate*&query=love*&query=sad*&query=happy*&query=los*&query=win*&query=brave*&query=fear*&corpus=c62bec8dbc92fc5bc87937bc763022b6'></iframe>
 
-*Figure 1: Relative frequency of selected words across all five texts in Voyant Tools.*
+<center>*Figure 1: Relative frequency of selected words across all five texts in Voyant Tools.*</center>
 
 ### Win Belongs to *Goblet of Fire* 
 Win* shows a sharp, localized spike in *Goblet of Fire* in the Voyant trend graph, reaching nearly 0.0019 relative frequency, the highest single-word peak across all eight terms and all five texts. This makes immediate contextual sense: *Goblet of Fire* is structured around a competition, and language of winning, losing, and triumph saturates the tournament sequences. In the heatmap, win scores 21 in *Goblet of Fire* but 0 in both Gojirahkiin and Sugahhuney, confirming that this word is essentially plot-specific. The insight here is methodological: word frequency without context can mislead. A reader encountering only the frequency data might conclude that *Goblet of Fire* is an unusually triumphalist text, when in fact the word reflects genre convention rather than emotional tone.
@@ -41,7 +41,7 @@ Looking across the heatmap, *Deathly Hallows* presents the most emotionally inte
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/color.png" style="width: 80%;">
 </div>
-*Figure 2: Word frequency heatmap across all five texts. Color intensity reflects raw word count.*
+<center>*Figure 2: Word frequency heatmap across all five texts. Color intensity reflects raw word count.*</center>
 
 ## Interpretations and Risk of Distant Reading
 These patterns are suggestive, but Ted Underwood's caution in *Distant Horizons* is directly applicable here. He warns that quantitative models are no more objective than any other historical interpretation, and that what looks like a meaningful pattern may be an artifact of genre, length, or the particular word list chosen. Our eight-word lexicon is precisely the kind of narrow instrument Underwood would flag. The presence of win* in *Goblet of Fire* is a frequency artifact of plot, not a signal of emotional positivity. Likewise, the absence of brave* in *Resurrection* (count: 0) does not mean the text is lacking in courage; it simply means the author used different vocabulary. 
