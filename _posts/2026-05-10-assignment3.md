@@ -10,8 +10,7 @@ categories:
 
 Science fiction is supposed to be about the future. But the corpus of roughly 1,000 texts scraped from Project Gutenberg tells a different story. It reveals that the future these writers imagined was built from the vocabulary of the colonial past. Using word2vec models trained on this corpus, I queried three words: *alien*, *native*, and *race*. The results were not what I expected, and in some ways they were exactly what I should have expected.
 
-This essay compares results across two models, `model_100d_w4` (100 dimensions, window size 4) and `model_300d_w8` (300 dimensions, window size 8), and argues that the semantic space of this corpus is saturated with real-world imperial and racial ideology, not science-fictional imagination.
-
+This essay compares results across two models, `model_100d_w4` and `model_300d_w8` and argues that the semantic space of this corpus is saturated with real-world imperial and racial ideology, not science-fictional imagination.
 
 ## Background: What the Models Are Doing
 
@@ -90,7 +89,7 @@ This is the most striking result.
 
 ### Analysis
 
-"Native" in this corpus is not a spatial word meaning "belonging to a place." It is a colonial category. The semantic neighborhood is overwhelmingly made up of real-world imperial geographies and ethnic labels: *Morocco, Senegalese, Bohemian, Altaic, Phoenician, Waziri, Spanish, Aryans.* These are not invented planets or fictional civilizations. They are actual places and peoples that nineteenth and early twentieth century colonial literature wrote about constantly.
+"Native" in this corpus is not a spatial word meaning "belonging to a place." It is a colonial category. The semantic neighborhood is made up of real-world imperial geographies and ethnic labels: *Morocco, Senegalese, Bohemian, Altaic, Phoenician, Waziri, Spanish, Aryans.* These are not invented planets or fictional civilizations. They are actual places and people that nineteenth and early twentieth century colonial literature wrote about constantly.
 
 *Waziri* is directly traceable to Edgar Rice Burroughs' Tarzan series, where the Waziri are an African tribe allied with Tarzan. The presence of this word here tells you something about which texts are shaping the semantic neighborhood of "native" most strongly.
 
