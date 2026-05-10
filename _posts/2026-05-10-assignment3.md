@@ -1,6 +1,6 @@
 ---
 title: "Assignment 3"
-excerpt: "Can a Computer Separate Style from Content?"
+excerpt: "What the Corpus Already Knew: Colonial Language in a Science Fiction Word Vector Space"
 layout: single
 date: 2026-05-11
 categories:
