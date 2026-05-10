@@ -158,3 +158,4 @@ The science fiction label does not insulate a corpus from the ideological condit
 
 Whether that makes this corpus bad science fiction or historically typical science fiction is a different question, one the model cannot answer, and one worth asking.
 
+**READY FOR GRADING**
