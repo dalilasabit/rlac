@@ -1,10 +1,17 @@
+---
+title: "Assignment 3"
+excerpt: "What the Corpus Already Knew: Colonial Language in a Science Fiction Word Vector Space"
+layout: single
+date: 2026-05-11
+categories:
+  - assignments
+---
 # What the Corpus Already Knew: Colonial Language in a Science Fiction Word Vector Space
 
 Science fiction is supposed to be about the future. But the corpus of roughly 1,000 texts scraped from Project Gutenberg tells a different story. It reveals that the future these writers imagined was built from the vocabulary of the colonial past. Using word2vec models trained on this corpus, I queried three words: *alien*, *native*, and *race*. The results were not what I expected, and in some ways they were exactly what I should have expected.
 
 This essay compares results across two models, `model_100d_w4` (100 dimensions, window size 4) and `model_300d_w8` (300 dimensions, window size 8), and argues that the semantic space of this corpus is saturated with real-world imperial and racial ideology, not science-fictional imagination.
 
----
 
 ## Background: What the Models Are Doing
 
@@ -14,7 +21,6 @@ This matters for interpreting the results. When *mongrel* appears in the same ne
 
 Ted Underwood warns that this is also where distant reading can mislead. In "The Dangers of Distant Reading," he cautions that computational methods do not reveal objective truths about a corpus; they reveal patterns that a researcher then interprets. The patterns I found below are real, but what they *mean* is a claim I am making, not something the model tells me directly. That interpretive responsibility is mine.
 
----
 
 ## Query 1: *alien*
 
@@ -54,7 +60,6 @@ The 300d model adds *Terran* and *anomaly*, which are slightly more sci-fi in re
 
 *Irrational* appearing in both models is worth pausing on. The alien, in this corpus, is not just physically different. It is cognitively subordinate. That is not a neutral semantic fact; it is an ideological one.
 
----
 
 ## Query 2: *native*
 
@@ -93,7 +98,6 @@ The 300d model makes the ideological layer even more explicit. *Mongrel, scum, i
 
 Underwood's warning is directly relevant here. The pattern is real. But I am the one saying it reflects colonial ideology. The model does not label it that way. What the model shows is a distributional fact: across hundreds of texts, the word "native" appeared near these other words with regularity. What that means is an interpretation.
 
----
 
 ## Query 3: *race*
 
@@ -128,7 +132,6 @@ The 300d model adds something the smaller model misses: *Martians, extermination
 
 *Martians* appearing here is also interesting. It suggests that the corpus uses "Martians" in the same way it uses racial categories, as a group defined by collective characteristics, hierarchy, and difference from humans.
 
----
 
 ## Comparing the Two Models
 
@@ -138,7 +141,6 @@ For *alien*, the models are broadly similar, with the 300d version adding slight
 
 The "best for" description in the assignment says the 300d model captures "complex semantic and thematic relationships across broader context." That holds up. The larger model is not just more of the same. It reveals connections that the smaller model cannot see.
 
----
 
 ## What the Model Cannot Tell You
 
@@ -148,7 +150,6 @@ This is Underwood's core concern made concrete. The patterns I described above a
 
 What the model can tell you is that the vocabulary of empire was so pervasive in this corpus that it left a measurable statistical trace across 1,000 texts. That is already a significant finding.
 
----
 
 ## Conclusion
 
@@ -157,3 +158,4 @@ The word vector models trained on this science fiction corpus reveal that three 
 The science fiction label does not insulate a corpus from the ideological conditions of its production. These texts were written mostly in the late nineteenth and early twentieth century, during the height of European and American imperialism, and the models learned that context. The future these writers imagined was built from the language of the world they already lived in.
 
 Whether that makes this corpus bad science fiction or historically typical science fiction is a different question, one the model cannot answer, and one worth asking.
+
