@@ -18,7 +18,7 @@ Word2vec learns meaning from context. It does not know what a word means in the 
 
 This matters for interpreting the results. When *mongrel* appears in the same neighborhood as *native*, it is not a coincidence or a noise artifact. The model found that these words share contexts. They tend to appear near the same other words across many texts. The corpus taught the model that.
 
-Ted Underwood warns that this is also where distant reading can mislead. In "The Risks of Distant Reading," he cautions that computational methods do not reveal objective truths about a corpus; they reveal patterns that a researcher then interprets. The patterns I found below are real, but what they *mean* is a claim I am making, not something the model tells me directly. That interpretive responsibility is mine.
+Ted Underwood warns that this is also where distant reading can mislead. In "The Risks of Distant Reading" (*Distant Horizons*), he cautions that computational methods do not reveal objective truths about a corpus; they reveal patterns that a researcher then interprets. The patterns I found below are real, but what they *mean* is a claim I am making, not something the model tells me directly. That interpretive responsibility is mine.
 
 
 ## Query 1: *alien*
